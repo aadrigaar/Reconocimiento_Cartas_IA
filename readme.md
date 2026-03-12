@@ -1,15 +1,10 @@
 # MEMORIA TÉCNICA
 
-## RETO DE VISIÓN ARTIFICIAL: RECONOCIMIENTO
-
-## DE CARTAS
+## RETO DE VISIÓN ARTIFICIAL: RECONOCIMIENTO DE CARTAS
 
 Asignatura: Inteligencia Artificial
-
 Universidad: Universidad Europea del Atlántico
-
 Alumno: Adrián García Arranz
-
 Fecha: Noviembre 2025
 
 ## 1. Introducción y Objetivo
@@ -45,8 +40,6 @@ carta (palo y número) como de su posición en la escena.
 - Librería Principal: OpenCV (Open Source Computer Vision Library).
     Utilizada para todo el pipeline de visión: filtrado gaussiano, detección de
     bordes (Canny) y transformaciones de perspectiva.
-
-
 - Librería Auxiliar: NumPy. Esencial para las operaciones vectorizadas de
     comparación de matrices (imágenes) en tiempo real.
 
@@ -93,7 +86,6 @@ mayoría de la baraja con alta fiabilidad, incluyendo todas las figuras y númer
 estándar.
 
 ### B. Módulo Específico: card_recognition.py
-
 
 Este script ha sido calibrado exclusivamente para un subconjunto de 7 cartas
 que presentan desafíos específicos de similitud de patrones o densidad de tinta.
