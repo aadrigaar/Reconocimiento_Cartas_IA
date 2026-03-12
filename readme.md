@@ -1,6 +1,4 @@
-# MEMORIA TÉCNICA
-
-## RETO DE VISIÓN ARTIFICIAL: RECONOCIMIENTO DE CARTAS
+# RETO DE VISIÓN ARTIFICIAL: RECONOCIMIENTO DE CARTAS
 
 Asignatura: Inteligencia Artificial
 Universidad: Universidad Europea del Atlántico
