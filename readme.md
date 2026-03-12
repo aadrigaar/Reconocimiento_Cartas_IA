@@ -1,12 +1,12 @@
 # RETO DE VISIÓN ARTIFICIAL: RECONOCIMIENTO DE CARTAS
 
-Asignatura: Inteligencia Artificial
-
-Universidad: Universidad Europea del Atlántico
-
-Alumno: Adrián García Arranz
-
-Fecha: Noviembre 2025
+> Asignatura: Inteligencia Artificial
+>
+> Universidad: Universidad Europea del Atlántico
+>
+> Alumno: Adrián García Arranz
+>
+> Fecha: Noviembre 2025
 
 ## 1. Introducción y Objetivo
 
